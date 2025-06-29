@@ -1,3 +1,5 @@
+> The problem is not about AI taking over coding. The problem is about whether you are qualified enough to review code written by AI.
+
 ## 🛠️ Tech Stack
 
 ### Frontend Development
