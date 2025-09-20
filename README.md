@@ -1,4 +1,4 @@
-> The problem is not about AI taking over coding. The problem is about whether you are qualified enough to review code written by AI.
+I love building smooth, user-friendly apps with React, TypeScript, and TailwindCSS. Whether it’s crafting beautiful UIs or solving tricky logic problems, I enjoy turning ideas into interactive experiences!
 
 ## 🛠️ Tech Stack
 
